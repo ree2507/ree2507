@@ -8,5 +8,7 @@ Web development, Cyber security
 HTML, CSS, Javascript, Network security, and Kali linux
 
 # 📫 How to reach me ...
-Instagram: https://instagram.com/rey7.1?igshid=ZDdkNTZiNTM=
+Instagram: https://instagram.com/nnyoing?igshid=OGQ5ZDc2ODk2ZA==
+LinkedIn: https://www.linkedin.com/in/reyhan-dany-a9108b268
+Email: ryhndny555@gmail.com
 
