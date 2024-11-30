@@ -1,11 +1,11 @@
 # 👋Hi, i'm @rey
-I am Reyhan Dany, an 19-year-old teenager who has an interest and talent in the world of technology.
+My name is Reyhan Dany, an 19-year-old teenager who has an interest and talent in the world of technology.
 
 #  👀I’m interested in ...
-Robotics
+Robotics, IoT, and Artificial Intelligence
 
 # 🌱 I’m currently learning ...
-Python, Javascript, C++
+Python and C++
 
 # 📫 How to reach me ...
 Instagram: https://instagram.com/nnyoing?igshid=OGQ5ZDc2ODk2ZA==
