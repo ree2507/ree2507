@@ -1,8 +1,6 @@
 <h1 align="center">Hola👋, I'm Reyhan Dany A.H. Mohammad</h1>
 <h3 align="center">A passionate data science and machine learning enthusiast from Indonesia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ree2507&label=Profile%20views&color=0e75b6&style=flat" alt="ree2507" /> </p>
-
 - 🌱 I’m currently learning **Data Science and Machine Learning.**
 
 <h3 align="left">Connect with me:</h3>
